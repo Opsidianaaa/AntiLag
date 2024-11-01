@@ -8,7 +8,7 @@ if _G.SendNotifications == nil then
     _G.SendNotifications = false -- Set to false if you don't want notifications
 end
 if _G.ConsoleLogs == nil then
-    _G.ConsoleLogs = false -- Set to true if you want console logs (mainly for debugging)
+    _G.ConsoleLogs = true -- Set to true if you want console logs (mainly for debugging)
 end
 
 
